@@ -1,0 +1,30 @@
+
+# Environment Variables
+.env
+.venv
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Database & Cache
+chroma_db_corpus/
+.cache/
+
+# Data (Sensitive or Large)
+data/corpus.json
+data/qa_pairs.json
+response.json
+response_verified.json
+evaluation_results_*.json
+*.zip
