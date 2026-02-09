@@ -1,0 +1,648 @@
+[
+  {
+    "question_id": "58e6f045-3ed7-55d6-a5d7-950baed4b07a",
+    "question": "台灣於何年開始實施九年國民義務教育?",
+    "gold_answer": "1968年",
+    "gold_doc_ids": [
+      "164a54d5-3acc-57e7-9008-cbbb15d1badd"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "228441b3-2799-52b0-869b-c9f33be26e7b",
+    "question": "夜柔吠陀與阿闥婆吠陀均可以最為研究哪一門語言的參考？",
+    "gold_answer": "梵語",
+    "gold_doc_ids": [
+      "abd419c5-600c-589e-bc7f-05df368fd286"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "cc5e4f4d-3b89-53e2-b9d6-c16aed8cdd52",
+    "question": "高句麗在直到滅亡前多久時間其首都都在長安城？",
+    "gold_answer": "83年",
+    "gold_doc_ids": [
+      "e1026d55-4b5d-52bd-bca2-4869c4673603"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "80c3df46-5972-5e17-91a0-ef040856df30",
+    "question": "加拿大軍事基地溫尼伯分基地目前位於何處?",
+    "gold_answer": "溫尼伯國際機場",
+    "gold_doc_ids": [
+      "d0275496-cb9d-5d10-9c34-0533858cdcdc"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "09b845f2-3a1a-5509-972b-a278eceb73e6",
+    "question": "哪一種稻米有8成左右的澱粉不是直鏈澱粉？",
+    "gold_answer": "秈稻",
+    "gold_doc_ids": [
+      "a5a7c058-6a5b-57cd-b279-e35eb35e6126"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "fd2f1abe-29cd-50ca-b88b-1f0b8ef34484",
+    "question": "滬寧鐵路在哪一年的時候開始動工?",
+    "gold_answer": "1905年",
+    "gold_doc_ids": [
+      "9b3d493f-1642-5136-b6cd-168e64014f8b"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "3cf8e5a7-0512-592b-a7ae-7866858aa744",
+    "question": "蔣中正施行白色恐怖的原因有二，除了為了穩固政權之外，另一項原因為何?",
+    "gold_answer": "防止中國共產黨滲透",
+    "gold_doc_ids": [
+      "e17f306b-5dac-5295-aacf-f7cf9176ea19"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "e75fdd88-a987-5371-a179-8fff025947d5",
+    "question": "很多人認為在什麼時間之後韓國就不再是漢江奇蹟？",
+    "gold_answer": "1997年",
+    "gold_doc_ids": [
+      "3db877db-add1-597d-9b7e-f7f3662ffaae"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "acd1f744-1ca5-5e9e-bc0c-4d715872a64d",
+    "question": "東德有多少比例的婦女在到1989年前都有參與工作？",
+    "gold_answer": "92%",
+    "gold_doc_ids": [
+      "32bf09a0-7393-57b3-92c9-dbe2412cf0ab"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "284072b1-7a71-5d50-876b-e380b3811f34",
+    "question": "經濟部的前身實業部是依據哪一條章於1912年首次設立的?",
+    "gold_answer": "《中華民國臨時政府組織大綱》",
+    "gold_doc_ids": [
+      "8fce8aec-9640-5fec-9071-f0baa1d738cc"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "72412e3a-f166-5cf0-a973-78a4256a55a8",
+    "question": "過氧乙醚在什麼樣的情況下有可能發生爆炸?",
+    "gold_answer": "乾燥",
+    "gold_doc_ids": [
+      "b73e5337-063d-544b-9b42-dfac24025696"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "05b2e67a-c9a6-5298-a026-2bbcb750367c",
+    "question": "馬祖列島的地形中有很多崩崖與險礁之成因統稱為什麼？",
+    "gold_answer": "侵蝕作用",
+    "gold_doc_ids": [
+      "2ccfcc2b-d812-5902-a49d-7c96cbcffdc2"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "2498fa5a-33fe-5bfa-9913-88e7d97dd684",
+    "question": "在2010年行政院大陸委員會所作的的民意調查中，大多數的台灣人認為應該如何處理兩岸關係?",
+    "gold_answer": "應該維持現狀",
+    "gold_doc_ids": [
+      "24342d7d-74aa-5193-9af5-17a6700e7d4b"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "3ffe2cf2-8457-594a-8f29-313646bff106",
+    "question": "法蘭克福為第二大都市圈，僅次於哪個城市?",
+    "gold_answer": "萊茵魯爾",
+    "gold_doc_ids": [
+      "dc157431-bbee-57af-844d-61eab593d534"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "019accfb-551f-5165-90c1-98f29cb80706",
+    "question": "六七暴動中，損失最多的是什麼身分的人?",
+    "gold_answer": "福建華僑",
+    "gold_doc_ids": [
+      "e7a58ec0-9d25-55ae-9dc3-94fc561ace47"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "f254b5a8-5397-5ab7-a3ff-e2d632d2880c",
+    "question": "從1953年到1973年，以計劃經濟制度，人民幣和哪個幣別的匯率正式掛勾?",
+    "gold_answer": "美元",
+    "gold_doc_ids": [
+      "8f5d1b9d-51d6-581f-8fa0-9e550371de9e"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "6eceefff-f6e7-5539-a274-d66f29e51f8e",
+    "question": "外界為什麼很難瞭解死囚器官捐獻的真相?",
+    "gold_answer": "中國對處決犯人一直採取保密的措施",
+    "gold_doc_ids": [
+      "93e6bdf6-98e5-5749-9c6f-dcac506a68ce"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "287bcba8-f651-5035-80f1-0c0e5cd20991",
+    "question": "若是誤食了金杯罌粟可能會導致水腫以及哪一種症狀?",
+    "gold_answer": "青光眼",
+    "gold_doc_ids": [
+      "9c309595-082b-5cda-8f48-c9c0185d8b90"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "85edbd74-afcf-522e-b49a-73b8ecc29b06",
+    "question": "南北戰爭後北方雖獲勝，但也因此付出了許多犧牲，其中哪位總統更是被支持南方的恐怖分子刺殺?",
+    "gold_answer": "林肯",
+    "gold_doc_ids": [
+      "862e4e76-e604-5878-b878-7d40b23b6f18"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "f01c1c5a-89cb-5402-b41e-de2e6e79f9fe",
+    "question": "錫克教的經典是?",
+    "gold_answer": "《古魯·格蘭特·薩希卜》",
+    "gold_doc_ids": [
+      "977bcd20-a394-524b-9838-414e8d5cfeea"
+    ],
+    "source_dataset": "drcd",
+    "question_type": "single-hop"
+  },
+  {
+    "question_id": "107cf1a9-adb2-5b3c-b884-d0675c627738",
+    "question": "彼得·達弗爾（Peter Duffell）和弗雷德·尼布洛（Fred Niblo）都是演員嗎？",
+    "gold_answer": "不是",
+    "gold_doc_ids": [
+      "99f2e5f0-f5f9-555c-90e6-141896cd4966",
+      "21c034be-86e3-5f90-8bd8-9d0e73f04816"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "c76839a3-8df6-59b0-b9a4-89146cf57d87",
+    "question": "在《喜劇之夜卡皮爾秀》(Comedy nights with Kapil Show)中飾演Gutthi的那位演員，也主演了Smeep Kang執導的2016年旁遮普語電影是哪一部？",
+    "gold_answer": "維薩奇名單 (Vaisakhi List)",
+    "gold_doc_ids": [
+      "d7ea6351-7ad6-58cf-af0b-287bf3ab5a27",
+      "dd6d6dee-15ba-52f2-8f43-4f5364266e16"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "27ff79b2-f638-55b3-b77a-d4f0ef66d4a1",
+    "question": "在《復仇者悲劇》(The Revengers Tragedy)中飾演公爵夫人的女演員的生日是什麼時候？",
+    "gold_answer": "1946年11月23日",
+    "gold_doc_ids": [
+      "1daf9864-d1f8-5659-9f0f-23f2f1557e19",
+      "ddfb18a1-7551-5a6f-b8a6-4d020f76113f"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "21fb29cb-6e3e-5a9c-8fd6-6d1a464c5780",
+    "question": "Kenneth L. Gile 是一家航空公司的營運長，其總部設於哪個機場？",
+    "gold_answer": "杜拜國際機場 (Dubai International Airport)",
+    "gold_doc_ids": [
+      "8b49926a-b15e-560c-b38f-08dd3a5d24a1",
+      "58fab5aa-0937-5db2-b2b6-9216aea8bb0b"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "700a8734-6abc-58cf-8294-17e920089521",
+    "question": "《逮捕我》(Arrêtez-moi) 是屬於哪一種以懸疑和緊張感著稱的電影類型？",
+    "gold_answer": "驚悚片",
+    "gold_doc_ids": [
+      "72f07e84-0fde-541a-acbb-de9eb3c1b398",
+      "54d21b34-b99d-509f-9e0e-bc7b9e9db8fe"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "7a9d11d5-cc9e-5658-a0fc-be4bdb8e8666",
+    "question": "阿拉貝拉·查普曼（Arabella Chapman）畢業於哪所學校，該校最初是作為阿爾巴尼自由學院（Albany Free Academy）成立的？",
+    "gold_answer": "奧爾巴尼高中 (Albany High School)",
+    "gold_doc_ids": [
+      "44fe88d1-ba67-53fc-8c3d-87a6ea9c1f0c",
+      "163ddd20-08c2-568c-89dc-13aedf58ae4c"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "66b44588-6d00-586f-bf72-55a9cae6b5d4",
+    "question": "加州哪一項比賽是向一位於1954年獲得諾貝爾文學獎的美國小說家致敬的？",
+    "gold_answer": "國際模仿海明威寫作比賽（The International Imitation Hemingway Competition），又稱為壞海明威大賽 (The Bad Hemingway Contest)",
+    "gold_doc_ids": [
+      "e6a1bf34-ad31-5e8d-b4d8-0106554628d5",
+      "df1f62cc-f5c8-56bc-a325-d232617768d6"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "bf092436-7b95-56ee-bd09-83e58a3f8762",
+    "question": "Blue Dwarf 是哪一種類型的線上文字角色扮演遊戲？",
+    "gold_answer": "郵件式角色扮演遊戲 (play-by-post role-playing game)",
+    "gold_doc_ids": [
+      "fcac8945-b187-51d6-b00a-3361cdbb4aaf",
+      "002a0761-a9da-5d0b-abee-33c60dab6504"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "ddf41c9a-fbea-5cc8-87c1-278dc28581c4",
+    "question": "美國銷售額第二大汽車租賃公司的執行長是誰？",
+    "gold_answer": "羅伯特·L·史東（Robert L. Stone）",
+    "gold_doc_ids": [
+      "c533d9c7-0762-5ed0-8c37-5a777c8ca1e7",
+      "a440ce51-73ef-54e5-9700-fc2f30010c25"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "a6dcf9cd-857e-5073-ba8f-5b0baeb94f3e",
+    "question": "「Clydebuilt」位於哪條河的南岸？",
+    "gold_answer": "克萊德河 (the River Clyde)",
+    "gold_doc_ids": [
+      "9a77185c-c56b-5a24-ac99-8b22e699310d",
+      "c17ad6d5-3607-53fd-9b15-8467b87dffac"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "14a238cf-f87f-5c99-8f6b-c33a06d2b60c",
+    "question": "開發理查·霍恩斯比父子公司（Richard Hornsby & Sons）油引擎的英國發明家的出生日期是什麼？",
+    "gold_answer": "1864年1月28日",
+    "gold_doc_ids": [
+      "22e9c738-525f-5bbd-b5be-04150ed822c0",
+      "794106b4-2e23-504e-957a-3805c2675024"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "0c2f6e1d-5422-5eaa-b46a-539a4eeb9972",
+    "question": "Manning Marius Kimmel 的父親是哪一年從海軍退役的？",
+    "gold_answer": "1942",
+    "gold_doc_ids": [
+      "511942b7-6ca9-5df0-880a-22833c752a48",
+      "ed1950e0-1736-5fca-afd6-5ac2cb5a7ec7"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "18b94d3e-46e1-58e8-b123-47faa0792e85",
+    "question": "在《Splash!》中出現的那位英國潛水選手專精於哪一項比賽項目？",
+    "gold_answer": "10米跳台項目",
+    "gold_doc_ids": [
+      "d3d69b81-c258-5fd8-9d8c-1d2925caec10",
+      "823cf2d5-593c-54f4-9e0b-7c5b6bed75ed"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "dc6a3cb3-0856-5434-a3d3-2d50b06e1bb5",
+    "question": "2014 S/S 是一支韓國男孩團體的首張專輯，那是由哪家公司組成的？",
+    "gold_answer": "YG娛樂",
+    "gold_doc_ids": [
+      "874bca06-1857-558e-a832-289e9958a9b6",
+      "8f470902-1b46-5e16-aa16-4ded9e89780b"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "ddb204e7-3fc8-545a-a844-6993cac49ac0",
+    "question": "哪一位義裔美國作曲家兼劇本作家創作了英語歌劇《Maria Golovin》？",
+    "gold_answer": "賈恩·卡羅·梅諾蒂 (Gian Carlo Menotti)",
+    "gold_doc_ids": [
+      "2ce92d5e-2eda-586b-98f3-9700d7fea769",
+      "ef67e053-5414-5370-99cd-c76c306b5bbd"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "139e7ef8-bee2-5fb4-9771-51ded12b6049",
+    "question": "誰出生得比較晚，傑瑞·賈西亞（Jerry Garcia）還是喬·古奇（Joe Gooch）？",
+    "gold_answer": "喬·古奇（Joe Gooch）",
+    "gold_doc_ids": [
+      "a4a895ac-3f97-5f97-91b6-c2cbad035bae",
+      "a78682e6-1394-53ca-aca7-90dcf4c029e8"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "98650e36-e208-578c-827e-b7fd2372b6e2",
+    "question": "《隨想曲第5號》(Caprice No. 5) 是由哪位義大利小提琴家、吉他家及作曲家所創作，他同時也是他那個時代最著名的小提琴演奏家？",
+    "gold_answer": "尼可羅（Niccolò 或 Nicolò）・帕格尼尼（Paganini）",
+    "gold_doc_ids": [
+      "622c974a-cb55-5f1d-a530-07e7d4c5ada2",
+      "280b875d-9627-5ab7-8b43-1be98a199e37"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "9f8cea32-7eaa-5995-96e9-31019451fae6",
+    "question": "哪部紀錄片先發行，《巴格達急救》(Baghdad ER) 還是《十年午餐》(The Ten-Year Lunch)？",
+    "gold_answer": "十年午餐",
+    "gold_doc_ids": [
+      "0146b5dd-ef3e-5bd3-8b4a-6c0567417ac1",
+      "c10fadc7-5d2d-5ab2-b7ba-5bc1fe36c3b9"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "3832dedc-2e63-5b6a-a8ec-fbb66dd8dd18",
+    "question": "2015年太平洋運動會中，基里巴斯（Kiribati）國家籃球隊以0勝4敗的成績作收，請問該賽事是在哪個城市和國家舉行的？",
+    "gold_answer": "莫士比港（Port Moresby），巴布亞紐幾內亞（Papua New Guinea）",
+    "gold_doc_ids": [
+      "3d5381f9-3553-5e55-a665-ef1074bf37a5",
+      "e81aa4ca-02ef-5583-9423-05ebe4c8feb3"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "2891ee25-fe8a-584d-a420-620ef37af5c7",
+    "question": "厄文·戈夫曼（Erving Goffman）在什麼指南中被評價高於文學評論家？",
+    "gold_answer": "《泰晤士高等教育指南》",
+    "gold_doc_ids": [
+      "9b4e121a-4361-52b4-9097-4d983c819f55",
+      "5167e50d-06bf-537a-8bc9-58299a86fabe"
+    ],
+    "source_dataset": "hotpotqa",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "05a8460f-e373-54ab-93e2-36fc75d93242",
+    "question": "誰比較年輕，卡洛斯·雷特（Carlos Reyté）還是多米尼克·賈科坦·甘博（Dominic Jacotin Gamble）？",
+    "gold_answer": "卡洛斯·雷特（Carlos Reyté）",
+    "gold_doc_ids": [
+      "7acd9c7c-b99d-51a3-8543-bd62e2c1f0ef",
+      "1c9ae8f3-9c35-5011-a00a-ce9925e0a111"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "052c953a-e444-59a1-8ee9-2efddff0f265",
+    "question": "電影《O Quatrilho》的主題曲演唱者是在哪裡出生的？",
+    "gold_answer": "聖阿馬羅 (Santo Amaro)",
+    "gold_doc_ids": [
+      "5c7e07c9-c365-502f-bdc6-cebf4e622724",
+      "5e120b49-ec2e-5f2e-98c2-8ec404fd7994"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "3f7aa604-3a31-5e8d-b14e-5d65a0936df6",
+    "question": "哪一部電影是最近上映的，《State Rowdy》還是《Spy Kids 2: The Island Of Lost Dreams（間諜小子2：夢境島）》？",
+    "gold_answer": "《特務小子2：夢境島》(Spy Kids 2: The Island Of Lost Dreams)",
+    "gold_doc_ids": [
+      "92c93169-5b41-5f87-bd5d-56b677271869",
+      "5cb112f4-ca01-5196-b9dc-90c3f52fc9b4"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "139d17a1-7efa-5c27-ba9a-ae16ff93621d",
+    "question": "《昨日盛開的花朵》(The Bloom Of Yesterday) 和《煙火》(Fireworks, 1954年電影) 來自同一個國家嗎？",
+    "gold_answer": "不是",
+    "gold_doc_ids": [
+      "a3fe9e68-7c17-5538-87bf-760043085c91",
+      "afd8e6c0-4fb2-51d7-8f72-60ad112f8226"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "edad5f11-167a-569e-9847-08885ff142b3",
+    "question": "哪一部電影的導演出生得比較早，《Ramaiya Vastavaiya》還是《Forbidden Temptations》？",
+    "gold_answer": "禁忌的誘惑",
+    "gold_doc_ids": [
+      "2d339490-2d62-53e2-b9d1-3d50c5a53a3e",
+      "bba9ff14-81d9-5628-abac-8f3b160f5b1f",
+      "ec45b446-d078-5dfb-bab1-6847b9a6bd5c",
+      "8ca6b6ed-cca6-5e78-91a5-6facb1039291"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "5b1dab4c-d679-54c4-9d03-05c5383fe8ce",
+    "question": "Julie Berwald 的母親出生地是哪裡？",
+    "gold_answer": "赫爾辛基 (Helsinki)",
+    "gold_doc_ids": [
+      "ce3f05d3-ef13-5590-8f38-d786e7e46baf",
+      "42db957e-5cc5-5648-a9a2-dc7e967935aa"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "fe1658a9-30b9-5fe2-823d-e65fe0e43f3a",
+    "question": "誰年紀比較大，詹姆斯·帕頓（James Parton）還是蘿拉·費琪（Laura Fygi）？",
+    "gold_answer": "詹姆斯·帕頓 (James Parton)",
+    "gold_doc_ids": [
+      "fd3188df-e0f8-5a4a-96eb-75731ef3807f",
+      "d9b669f1-5938-5dc6-90fc-b6cbdb666a96"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "ca02cb06-ec61-56b1-b6be-efc46058e1ea",
+    "question": "菲利普·索拉里（Philippe Solari）和史蒂芬·朱里卡（Stephen Jurika），誰活得比較久？",
+    "gold_answer": "史蒂芬·朱里卡 (Stephen Jurika)",
+    "gold_doc_ids": [
+      "d0b6dd30-9b74-59d8-9c77-3b33e737b6fc",
+      "1d5105c3-9bbf-520b-8485-99e792713431"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "994349b3-e831-506c-9324-9db05e8c5f35",
+    "question": "巴伐利亞的齊格弗里德·奧古斯特公爵（Duke Siegfried August In Bavaria）的父親是在哪裡去世的？",
+    "gold_answer": "費爾達芬 (Feldafing)",
+    "gold_doc_ids": [
+      "6b843310-47dc-5fcf-8f30-993b061b6e14",
+      "153302ff-1cc8-58ee-b826-380081f90496"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "f60361c8-2c33-5556-93f1-b36033ec0a22",
+    "question": "托馬斯·卡魯（Thomas Carew，鹽灘（Saltash）國會議員）的祖父是誰？",
+    "gold_answer": "約翰·卡魯 (John Carew)",
+    "gold_doc_ids": [
+      "c0b87c12-ee6c-58ea-8398-65e315080ef0",
+      "95d0e3e3-865d-5910-aedf-52982dfceee6"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "c34c29d3-0ddf-5596-b53a-eba940988dd0",
+    "question": "哪一部電影的導演較早去世，《肉體是脆弱的》（The Flesh Is Weak）還是《兒戲不可為》（One Does Not Play With Love）？",
+    "gold_answer": "人不可兒戲於愛情",
+    "gold_doc_ids": [
+      "9eaaf0c3-f6c4-5d55-a061-7dca880e65d0",
+      "98d6f592-c8b2-55f5-b630-9998b5c3c9b2",
+      "da4a8c4c-c112-5535-82bb-a48abea96512",
+      "56487889-bf53-56a2-84d0-a6f41ca21b42"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "5f8eabb7-f969-5a82-a025-2d33505342d9",
+    "question": "彼得·菲利普斯（Peter Phillips）的繼父是誰？",
+    "gold_answer": "提摩西·勞倫斯 (Timothy Laurence)",
+    "gold_doc_ids": [
+      "398d805d-a986-574d-9e96-26ebf95ca0f4",
+      "bd2514fd-801e-520b-b42e-fd624014ece2"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "80551c7c-a286-5151-ad18-6e5280475eb6",
+    "question": "《先開槍，再送命》(Shoot First, Die Later)的導演是在哪裡出生的？",
+    "gold_answer": "聖費迪南多迪普利亞（San Ferdinando di Puglia）",
+    "gold_doc_ids": [
+      "bddbacfa-795e-5ce0-a737-1a54d1af637d",
+      "fe21c91a-7e9f-59a0-b42d-3beb29f2fb65"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "51eafe76-a2b2-579f-9b8b-eb26160ee2cb",
+    "question": "電影《Level 16》的導演出生地是哪裡？",
+    "gold_answer": "溫尼伯（Winnipeg），曼尼托巴省（Manitoba）",
+    "gold_doc_ids": [
+      "9f1c70d5-e0f0-5ffe-bfcc-099e19b1d448",
+      "126deff4-1a61-5ef7-ad3a-f0f70d3126c5"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "e678fe8b-e1a3-53b4-a803-157aff8440c3",
+    "question": "電影《The Car》的導演是什麼時候出生的？",
+    "gold_answer": "1927年8月3日",
+    "gold_doc_ids": [
+      "91e4ca26-773d-55a8-bf90-4112dae59708",
+      "9e75d2c4-4db3-5003-8d2d-79414cd35ee5"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "80526dcf-f8c6-509b-b0bf-899a9ffbf7f4",
+    "question": "瑪格麗特·安茹女伯爵（Margaret, Countess Of Anjou）的丈夫是什麼國籍？",
+    "gold_answer": "法國 (France)",
+    "gold_doc_ids": [
+      "14a4436d-bd5b-58c0-9919-46a953eed3d3",
+      "2a2e3f4c-6e57-5816-9837-80897314c1af"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "3c778191-213c-500e-9b7c-1a033d25a975",
+    "question": "哪一部電影的導演出生得比較晚，《土星對立》(Saturn In Opposition) 還是《歡樂女兒》(Daughters Of Pleasure)？",
+    "gold_answer": "土星逆行",
+    "gold_doc_ids": [
+      "5429ef2b-3f98-5702-9179-e1816a312087",
+      "85d14043-8d64-55ac-8c1d-1b473473257f",
+      "2a159627-d103-5043-b15a-98ceea3a2380",
+      "ce8982a6-b82e-582a-9412-962d86894593"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "370fb389-1009-5480-9824-b3e64342a362",
+    "question": "《對陌生人的恐懼》(A Fear Of Strangers) 和《他們只殺死他們的主人》(They Only Kill Their Masters) 是來自同一個國家嗎？",
+    "gold_answer": "不",
+    "gold_doc_ids": [
+      "ab6a46ba-6148-5a5f-9b74-7cdb3a40557d",
+      "98b4e0fc-ec74-5a77-9acb-26fa005cec1d"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "341a0ccb-1633-57a1-be6d-44d7a747fbb4",
+    "question": "朱迪斯（Judith）是波蘭的父系祖父是誰？",
+    "gold_answer": "瓦迪斯瓦夫一世·赫爾曼 (Władysław I Herman)",
+    "gold_doc_ids": [
+      "9ef3c72f-33d6-5846-bd99-e91d988a82a6",
+      "abf95c19-8b10-5b5d-b350-69e250202e3d"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  },
+  {
+    "question_id": "62600a3f-2b3b-5f7d-bfa1-51019372a58e",
+    "question": "威廉·德魯里（William Drury，卒於1558年）的父親來自哪個國家？",
+    "gold_answer": "英格蘭 (England)",
+    "gold_doc_ids": [
+      "20a758f8-10c9-53c8-bbda-dce752a4ffc0",
+      "afe5dfa9-191c-5759-a371-cd83fc289cf2"
+    ],
+    "source_dataset": "2wiki",
+    "question_type": "multi-hop"
+  }
+]
