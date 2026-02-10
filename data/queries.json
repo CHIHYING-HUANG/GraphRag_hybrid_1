@@ -455,7 +455,7 @@
   {
     "question_id": "139d17a1-7efa-5c27-ba9a-ae16ff93621d",
     "question": "《昨日盛開的花朵》(The Bloom Of Yesterday) 和《煙火》(Fireworks, 1954年電影) 來自同一個國家嗎？",
-    "gold_answer": "不是",
+    "gold_answer": "是",
     "gold_doc_ids": [
       "a3fe9e68-7c17-5538-87bf-760043085c91",
       "afd8e6c0-4fb2-51d7-8f72-60ad112f8226"
@@ -534,7 +534,7 @@
   {
     "question_id": "c34c29d3-0ddf-5596-b53a-eba940988dd0",
     "question": "哪一部電影的導演較早去世，《肉體是脆弱的》（The Flesh Is Weak）還是《兒戲不可為》（One Does Not Play With Love）？",
-    "gold_answer": "人不可兒戲於愛情",
+    "gold_answer": "兒戲不可為",
     "gold_doc_ids": [
       "9eaaf0c3-f6c4-5d55-a061-7dca880e65d0",
       "98d6f592-c8b2-55f5-b630-9998b5c3c9b2",
